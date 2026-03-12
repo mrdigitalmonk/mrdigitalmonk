@@ -1,7 +1,7 @@
-<h1 align="center">⚡ Hey DigitalMonk Aka Ritik Here ⚡</h1>
+<h1 align="center">⚡ Hey there , DigitalMonk Aka Ritik Here ⚡</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=700&lines=Cybersecurity+Explorer;Python+Automation+Lover;Linux+Enthusiast;Welcome+To+My+Digital+Lab">
+<img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=40&center=true&vCenter=true&width=900&lines=Cybersecurity+Explorer;Python+Automation+Lover;Linux+Enthusiast;Breaking+Things+To+Learn">
 </p>
 
 <p align="center">
@@ -11,42 +11,50 @@
 ---
 
 ### 🧠 About Me
-
-- 🔐 Cybersecurity Learner  
+- 🔐 Cybersecurity Explorer  
 - 🐍 Python Automation  
-- 🐧 Linux & Kali User  
+- 🐧 Linux & Kali Linux User  
 - ⚡ Tech Experiments & Digital Projects  
+- 🚀 Always exploring new tech  
 
 ---
 
-### 🛠 Tools I Use
+### 🛠 Skills
 
-![Python](https://img.shields.io/badge/Python-Developer-green)
-![Linux](https://img.shields.io/badge/Linux-User-black)
-![GitHub](https://img.shields.io/badge/GitHub-Active-blue)
+![Python](https://img.shields.io/badge/Python-Developer-39FF14)
+![Linux](https://img.shields.io/badge/Linux-Hacker-black)
+![Git](https://img.shields.io/badge/Git-VersionControl-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Projects-blue)
 ![Cybersecurity](https://img.shields.io/badge/Cyber-Security-red)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mrdigitalmonk&show_icons=true&theme=chartreuse-dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=mrdigitalmonk&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdigitalmonk&layout=compact&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdigitalmonk&layout=compact&theme=radical)
 
 ---
 
-<!--
-**mrdigitalmonk/mrdigitalmonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏆 GitHub Trophies
 
-Here are some ideas to get you started:
+![Trophy](https://github-profile-trophy.vercel.app/?username=mrdigitalmonk&theme=matrix)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🐍 Contribution Snake
+
+![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
+---
+
+### 👀 Profile Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mrdigitalmonk&color=39FF14)
+
+---
+
+<p align="center">
+⚡ DigitalMonk | Aka Ritik
+</p>
