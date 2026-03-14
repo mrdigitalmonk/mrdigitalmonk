@@ -35,11 +35,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdigitalmonk&layout=compact&theme=radical)
 
----
-
-### 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=mrdigitalmonk&theme=matrix)
 
 ---
 
