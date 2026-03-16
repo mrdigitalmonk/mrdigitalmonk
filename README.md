@@ -2,7 +2,7 @@
   <img src="banner.png" width="100%" alt="Top Banner">
 </p>
 
-<h1 align="center">⚡ DigitalMonk | Ritik ⚡</h1>
+<h1 align="center">⚡ DigitalMonk ⚡</h1>
 <h3 align="center">Cybersecurity • Automation • Linux</h3>
 
 <p align="center">
