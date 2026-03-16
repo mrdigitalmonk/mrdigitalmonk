@@ -1,55 +1,94 @@
-<h1 align="center">⚡ Hey there , DigitalMonk Aka Ritik Here ⚡</h1>
+<p align="center">
+  <img src="banner.png" width="100%" alt="Top Banner">
+</p>
+
+<h1 align="center">⚡ DigitalMonk | Ritik ⚡</h1>
+<h3 align="center">Cybersecurity • Automation • Linux</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=40&center=true&vCenter=true&width=900&lines=Cybersecurity+Explorer;Python+Automation+Lover;Linux+Enthusiast;Breaking+Things+To+Learn">
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=30&center=true&vCenter=true&width=900&lines=Cybersecurity+Explorer;Python+Automation+Lover;Linux+Enthusiast;Breaking+Things+To+Learn" alt="Typing Animation">
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Hacker GIF">
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🔐 Cybersecurity Explorer  
-- 🐍 Python Automation  
-- 🐧 Linux & Kali Linux User  
-- ⚡ Tech Experiments & Digital Projects  
-- 🚀 Always exploring new tech  
+- 🔐 **Focus:** Cybersecurity Explorer
+- 🌱 **Currently Learning:** Cybersecurity | Python Automation | Linux Internals | Networking Basics
+- 🚀 **Goals:** Always exploring new tech & building digital projects
 
 ---
 
-### 🛠 Skills
-
-![Python](https://img.shields.io/badge/Python-Developer-39FF14)
-![Linux](https://img.shields.io/badge/Linux-Hacker-black)
-![Git](https://img.shields.io/badge/Git-VersionControl-orange)
-![GitHub](https://img.shields.io/badge/GitHub-Projects-blue)
-![Cybersecurity](https://img.shields.io/badge/Cyber-Security-red)
+### 💻 Current Projects
+- 🛠️ DataGen
+- 👻 GhostMask
+- 🤖 Automation Scripts
 
 ---
 
-### 📊 GitHub Stats
+### 🛠 Tech Stack & Tools I Use
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mrdigitalmonk&show_icons=true&theme=radical)
+**Languages & Core Skills:** ![Python](https://img.shields.io/badge/Python-39FF14?style=for-the-badge&logo=python&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-orange?style=for-the-badge&logo=robot&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-blue?style=for-the-badge&logo=cisco&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdigitalmonk&layout=compact&theme=radical)
-
+**Tools & Platforms:** ![Kali Linux](https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-black?style=for-the-badge&logo=terminal&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux CLI](https://img.shields.io/badge/Linux_CLI-black?style=for-the-badge&logo=gnome-terminal&logoColor=white)
 
 ---
 
-### 🐍 Contribution Snake
+### 🏆 Profile Trophies
 
-![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrdigitalmonk&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies">
+</p>
+
+---
+
+### 📊 Profile Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrdigitalmonk&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdigitalmonk&layout=compact&theme=radical&hide_border=true" alt="Top Langs">
+</p>
+
+---
+
+### 🐍 GitHub Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+</p>
 
 ---
 
 ### 👀 Profile Visitors
 
-![Visitor Count](https://komarev.com/ghpvc/?username=mrdigitalmonk&color=39FF14)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrdigitalmonk&color=39FF14&style=for-the-badge" alt="Profile Visitors">
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/mrdigitalmonk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://t.me/rkmonk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+</p>
 
 ---
 
 <p align="center">
-⚡ DigitalMonk | Aka Ritik
+  <b>⚡ DigitalMonk | Ritik</b><br>
+  <i>⚡ Exploring • Building • Learning</i>
 </p>
