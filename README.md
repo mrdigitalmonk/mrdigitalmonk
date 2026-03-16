@@ -9,10 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=30&center=true&vCenter=true&width=900&lines=Cybersecurity+Explorer;Python+Automation+Lover;Linux+Enthusiast;Breaking+Things+To+Learn" alt="Typing Animation">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Hacker GIF">
-</p>
-
 ---
 
 ### 🧠 About Me
